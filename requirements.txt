@@ -1,0 +1,5 @@
+
+numpy
+pandas
+difflib  # (⚠️ built-in in Python, no need to install separately)
+scikit-learn
